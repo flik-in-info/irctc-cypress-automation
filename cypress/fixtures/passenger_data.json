@@ -1,24 +1,24 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "11301",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "23/11/2024",
+  "SOURCE_STATION": "CSMT",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
-  "PREMIUM_TATKAL": false,
+  "DESTINATION_STATION": "SBC",
+  "TATKAL": false,
+  "PREMIUM_TATKAL": true,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pay",
-      "AGE": 26,
+      "NAME": "tanmay raj singh",
+      "AGE": 21,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shiva Dubey",
-      "AGE": 26,
+      "NAME": "Sadhana singh",
+      "AGE": 46,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
