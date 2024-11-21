@@ -10,14 +10,14 @@
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
+      "NAME": "Shivam Pay",
       "AGE": 26,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
+      "NAME": "Shiva Dubey",
       "AGE": 26,
       "GENDER": "Female",
       "SEAT": "No Preference",
